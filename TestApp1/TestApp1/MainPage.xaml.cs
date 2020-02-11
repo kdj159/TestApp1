@@ -12,7 +12,7 @@ namespace TestApp1
     // by visiting https://aka.ms/xamarinforms-previewer
     [DesignTimeVisible(false)]
     public partial class MainPage : ContentPage
-    { 
+    {  
         public MainPage()
         {
             InitializeComponent();
