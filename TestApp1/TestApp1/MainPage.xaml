@@ -8,9 +8,12 @@
 
     <StackLayout>
         <!-- Place new controls here -->
-        <Label Text="잘되는거 맞아?진짜?오호라~모지?그렇군.페치를 먼저 해야 겠네.3333"  
+        <Label Text="자마린 테스트"  
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
+        
+        <Button Text="전화" Clicked="Button_Clicked"></Button>
+        
     </StackLayout>
 
 </ContentPage>

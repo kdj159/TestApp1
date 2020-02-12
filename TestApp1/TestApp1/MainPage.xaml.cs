@@ -17,5 +17,11 @@ namespace TestApp1
         {
             InitializeComponent();
         }
+
+        private void Button_Clicked(object sender, EventArgs e)
+        {
+            var dialer = DependencyService.Get<IDialer>();
+            dialer.dial("010-1234-1234");
+        }
     }
 }
