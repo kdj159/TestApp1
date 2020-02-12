@@ -8,7 +8,7 @@
 
     <StackLayout>
         <!-- Place new controls here -->
-        <Label Text="잘되는거 맞아?진짜?오호라~모지?그렇군."  
+        <Label Text="잘되는거 맞아?진짜?오호라~모지?그렇군.페치를 먼저 해야 겠네."  
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
     </StackLayout>
